@@ -31,6 +31,12 @@ AnimeGAN/
 └── stylegan2
 (official Stylegan2 Utilities)
 ```
+## Dataset
+Most of our dataset has been scrapped from [getchu](http://www.getchu.com/), a website that provides information about anime and Japanese games, and each of them have a character introduction page, which has a still image of a character along with the description of the character.
+
+## Interpolation Loop
+![](out/mov.gif)
+
 ## Acknowledgements
 
 This work is largely dependent on Nvidia Labs's implementation of StyleGAN2, and we acknowlege all the contributors for the core implementation of the StyleGAN2 architecture, our work just explore one of the possible implementation of StyleGAN in generating Anime Characters.
