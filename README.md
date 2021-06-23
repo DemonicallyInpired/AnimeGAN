@@ -1,11 +1,11 @@
 ## AnimeGAN &mdash; A Use-Case Implementation for StyleGAN2
-*This project deals with generating Anime Character in particular the female Anime Character with a StyleGAN variant of all the fascinating version of Generative Adverserial Network introduced in the past. Though a head tonne of fascinating variant of GAN has came along in the past decade like cycle GAN or DCGAN, almost none has produced promising results that can stand in par with industry standards when it comes to generating eastern animation style character often know as Anime. However, the recent spur of a rather new addition to this already proliferating domain of GANs i.e. the Style GAN introduced by Nvidia Labs has almost make it possible to push aside the boundaries of trade-off between the quality and the relevance of the generated objects.*
+*This project deals with generating anime characters in particular the female anime characters with a StyleGAN variant of all the fascinating version of Generative Adverserial Network introduced in the past. Though a head tonne of fascinating variants of GAN have came along in the past decade like Cycle GAN or DCGAN, almost none has produced promising results that can stand in par with industry standards when it comes to generating characters in eastern animation style often known as anime. However, the recent spur of a rather new addition to this already proliferating domain of GANs i.e. the Style GAN introduced by Nvidia Labs has almost make it possible to push aside the boundaries of trade-off between the quality and the relevance of the generated objects.*
 
 ## Requirements:
-* Linux or Windows(10 or newer) operating System
-* 64-bits Python 3.6 installation
+* Linux or Windows (10 or newer)
+* Python 3.6 or higher
 * Numpy v1.14.3 or newer
-* Tensorflow v1.14 or v1.15
+* Tensorflow v1.14 or v1.15 (Tensorflow v2 not supported at the moment)
 * CUDA 10.0 toolkit and cuDNN 7.5
 * CUDA NVCC for seperate compilation
 
