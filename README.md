@@ -27,6 +27,7 @@ AnimeGAN/
     (Interpolation in the latent space)
 │   └── output.png
         (Projection of images in the latent Space)
+├── Presentation.pptx
 ├── README.md
 └── stylegan2
 (official Stylegan2 Utilities)
